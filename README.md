@@ -1,5 +1,3 @@
-
-
 # Nasjonale Prøver Analyse
 
 ## Prosjekt Oversikt
@@ -16,6 +14,9 @@ Noen skoler er ikke inkludert i datasettet og er derfor ikke representert i denn
 ## Visualiseringer
 Visualiseringene under illustrerer de ulike kategoriene av skolers prestasjoner, basert på deres fargekoding.
 
+### Trondheim-skoler Problem
+![Trondheim-skoler](https://github.com/axellundeby/nasjonaleprover/assets/145841574/2fae0935-028e-4bd2-990c-aab35c4352ce)
+
 ### Beste Skoler (Blå)
 ![Beste skoler](https://github.com/axellundeby/nasjonaleprover/assets/145841574/1907e319-fe5e-49a5-820e-300679d9d48e)
 
@@ -25,4 +26,3 @@ Klikk på en pil for å se detaljerte resultater for hver skole.
 
 ## Kjente Problemer
 - Det er for øyeblikket et problem med inkludering av skoler fra Trondheim. Dette blir undersøkt.
-
