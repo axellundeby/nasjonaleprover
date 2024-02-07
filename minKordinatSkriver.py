@@ -46,8 +46,8 @@ def csv_handler(read_path, write_path):
                 writer.writerow([enhetNavn, lat, lon, engRes, norskRes, matteRes, fylke, kommune])
 
 # Set the correct paths
-read_path = "/Users/axellundeby/Desktop/hobbyprosjekter/skoleKart/skole/data.csv"
-write_path = "/Users/axellundeby/Desktop/hobbyprosjekter/skoleKart/skole/dataWithCords.csv"
+read_path = "data.csv"
+write_path = "dataWithCords.csv"
 
 csv_handler(read_path, write_path)
 
