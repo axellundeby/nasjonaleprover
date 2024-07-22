@@ -1,28 +1,28 @@
-# Nasjonale Prøver Analyse
+# National Tests Analysis
 
-## Prosjekt Oversikt
-Dette prosjektet tar sikte på å kartlegge alle norske barneskoler for å sammenligne deres prestasjoner med nasjonalt gjennomsnitt i nasjonale prøver. Ved å bruke data fra [Utdanningsdirektoratet](https://www.udir.no/tall-og-forskning/statistikk/statistikk-grunnskole/nasjonale-prover-5.-trinn/), gir dette prosjektet innsikt i skolenes prestasjoner på en interaktiv og visuell måte.
+## Project Overview
+This project aims to map all Norwegian elementary schools to compare their performance with the national average in national tests. Using data from the [Directorate of Education](https://www.udir.no/tall-og-forskning/statistikk/statistikk-grunnskole/nasjonale-prover-5.-trinn/), this project provides insights into school performance in an interactive and visual manner.
 
-## Fargekoding av Skoler
-- **Grønne skoler** - Prestasjoner bedre enn gjennomsnittet
-- **Røde skoler** - Prestasjoner dårligere enn gjennomsnittet
-- **Blå skoler** - De beste skolene i hvert fylke
+## Color Coding of Schools
+- **Green schools** - Performances better than average
+- **Red schools** - Performances below average
+- **Blue schools** - The top-performing schools in each county
 
-## Viktig Merknad
-Noen skoler er ikke inkludert i datasettet og er derfor ikke representert i denne analysen.
+## Important Note
+Some schools are not included in the dataset and are therefore not represented in this analysis.
 
-## Visualiseringer
-Visualiseringene under illustrerer de ulike kategoriene av skolers prestasjoner, basert på deres fargekoding.
+## Visualizations
+The visualizations below illustrate the different categories of school performances, based on their color coding.
 
-### Trondheim-skoler Problem
-![Trondheim-skoler](https://github.com/axellundeby/nasjonaleprover/assets/145841574/2fae0935-028e-4bd2-990c-aab35c4352ce)
+### Trondheim Schools Issue
+![Trondheim Schools](https://github.com/axellundeby/nasjonaleprover/assets/145841574/2fae0935-028e-4bd2-990c-aab35c4352ce)
 
-### Beste Skoler (Blå)
-![Beste skoler](https://github.com/axellundeby/nasjonaleprover/assets/145841574/1907e319-fe5e-49a5-820e-300679d9d48e)
+### Best Schools (Blue)
+![Best Schools](https://github.com/axellundeby/nasjonaleprover/assets/145841574/1907e319-fe5e-49a5-820e-300679d9d48e)
 
-### Interaktiv Visning
-Klikk på en pil for å se detaljerte resultater for hver skole.
-![Interaktiv Visning](https://github.com/axellundeby/nasjonaleprover/assets/145841574/c5028d25-c8bd-42db-ba5c-f69b450869b9)
+### Interactive Viewing
+Click an arrow to see detailed results for each school.
+![Interactive Viewing](https://github.com/axellundeby/nasjonaleprover/assets/145841574/c5028d25-c8bd-42db-ba5c-f69b450869b9)
 
-## Kjente Problemer
-- Det er for øyeblikket et problem med inkludering av skoler fra Trondheim. Dette blir undersøkt.
+## Known Issues
+- There is currently a problem with including schools from Trondheim. This is under investigation.
