@@ -2,7 +2,7 @@ import folium
 import pandas as pd
 
 # Load data from the CSV file
-data = pd.read_csv("/Users/axellundeby/Desktop/hobbyprosjekter/skoleKart/skole/dataWithCords.csv", encoding='iso-8859-1')
+data = pd.read_csv("dataWithCords.csv", encoding='iso-8859-1')
 
 # Replace non-numeric values in 'Engelsk', 'Matte', and 'Norsk' columns with 50
 data['Engelsk'] = pd.to_numeric(data['Engelsk'], errors='coerce').fillna(50)
